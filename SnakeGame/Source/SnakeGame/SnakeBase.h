@@ -29,7 +29,7 @@ public:
 	UPROPERTY(EditDefaultsOnly)
 	TSubclassOf<ASnakeElementBase> SnakeElementClass;
 
-	UPROPERTY(EditDefaultsOnly)
+	UPROPERTY()
 	float ElementSize;
 	
 	UPROPERTY()
@@ -48,7 +48,12 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UFUNCTION(BlueprintCallable)
 	void AddSnakeElement(int ElementsNum = 1);
 
-	void Move(float DeltaTime);
+	UFUNCTION(BlueprintCallable)	
+	void Move();
+
+	UFUNCTION()
+	void SnakeElementOverlap(ASnakeElementBase* OverlappedBlock, AActor* Other);
 };

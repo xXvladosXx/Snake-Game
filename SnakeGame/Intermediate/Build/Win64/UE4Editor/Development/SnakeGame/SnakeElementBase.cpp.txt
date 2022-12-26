@@ -1,3 +1,7 @@
 E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h
 E:\GIT\Snake\Snake-Game\SnakeGame\Source\SnakeGame\SnakeElementBase.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Source\SnakeGame\Interactable.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\Interactable.generated.h
 E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\SnakeElementBase.generated.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Source\SnakeGame\SnakeBase.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\SnakeBase.generated.h

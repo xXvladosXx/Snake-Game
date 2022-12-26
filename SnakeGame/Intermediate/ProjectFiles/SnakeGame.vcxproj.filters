@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SnakeGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{773F870D-5200-474F-8BE1-995F351C0323}</UniqueIdentifier>
+      <UniqueIdentifier>{5917D871-C33E-4BE7-8BA0-CFD67864D003}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SnakeGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{717D3683-08F9-424B-8B32-77931BD2179B}</UniqueIdentifier>
+      <UniqueIdentifier>{C4C23701-7674-43B0-94A0-AFC4A325D9B8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\SnakeGame">
-      <UniqueIdentifier>{EC4FB2C3-7E6B-4676-8681-B3906064F671}</UniqueIdentifier>
+      <UniqueIdentifier>{A83C81FE-6F44-4F55-A343-2BC66C40F8A7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SnakeGame\SnakeGame.Build.cs">
       <Filter>Source\SnakeGame</Filter>
@@ -57,6 +60,18 @@
       <Filter>Source\SnakeGame</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SnakeGame\SnakeElementBase.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\Interactable.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SnakeGame\Interactable.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\Food.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SnakeGame\Food.cpp">
       <Filter>Source\SnakeGame</Filter>
     </ClCompile>
   </ItemGroup>
