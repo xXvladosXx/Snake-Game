@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\GIT\\Snake\\Snake-Game\\SnakeGame\\Source\\SnakeGame\\SnakeGame.Build.cs",
+		"E:\\GIT\\Snake\\Snake-Game\\SnakeGame\\Source\\SnakeGame.Target.cs",
+		"E:\\GIT\\Snake\\Snake-Game\\SnakeGame\\Source\\SnakeGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,7 @@
+E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Source\SnakeGame\PlayerPawnBase.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\PlayerPawnBase.generated.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Source\SnakeGame\SnakeBase.h
+E:\GIT\Snake\Snake-Game\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\SnakeBase.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
